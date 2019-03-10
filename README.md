@@ -1,6 +1,6 @@
 # Fedora 29 Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-fedora29-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-fedora29-ansible/)
+[![Build Status](https://travis-ci.org/alvarobacelar/docker-fedora29-ansible.svg?branch=master)](https://travis-ci.org/alvarobacelar/docker-fedora29-ansible)
 
 Fedora 29 Docker container for Ansible playbook and role testing.
 
